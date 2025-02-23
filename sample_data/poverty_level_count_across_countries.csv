@@ -1,0 +1,11 @@
+Country,LessThan1.90,LessThan3.20,LessThan5.50,Population
+US,2,2,3,4
+Brazil,3,4,6,3
+Indonesia,3,6,10,4
+Nigeria,6,8,12,3
+China,2,12,25,18
+India,20,35,50,19
+Russia,0,1,2,2
+Mexico,0.5,2,3,2
+Pakistan,0.2,3,4,3
+Bulgaria,0.5,1,2,1
